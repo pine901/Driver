@@ -1,0 +1,20 @@
+{
+    "next": "Next",
+    "LOGIN PAGE": "LOGIN PAGE",
+    "welcome": "Welcome",
+    "enter_your_phone_no": "Enter your phone number",
+    "signin_later": "Skip login",
+    "no_driver_account": "Account not found",
+    "driver_account_not_approved": "Your account is not approved",
+
+    "HOME NAVIGATOR": "HOME NAVIGATOR",
+    "stores": "Stores",
+    "notifications": "Notifications",
+    "orders": "Orders",
+    "profile": "Profile",
+    
+    "PROFILE DRAWER": "PROFILE DRAWER",
+    "signin": "Signin",
+    "signout": "Signout"
+
+}

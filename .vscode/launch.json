@@ -1,0 +1,38 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "dev-local",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug",
+            "args": [
+                "--dart-define", "ENV_MODE=dev",
+                "--dart-define", "API_MODE=local",
+                "--dart-define", "EMU_MODE=on"
+            ],    
+        },
+        {
+            "name": "dev-online",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug",
+            "args": [
+                "--dart-define", "ENV_MODE=dev",
+                "--dart-define", "API_MODE=online",
+                "--dart-define", "EMU_MODE=off"
+            ],    
+        },
+        {
+            "name": "dev-haleem-iphone",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug",
+            "args": [
+                "--dart-define", "ENV_MODE=stage",
+                "--dart-define", "API_MODE=online",
+                "--dart-define", "EMU_MODE=off"
+            ],    
+        },
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "next": "التالي",
+    "LOGIN PAGE": "LOGIN PAGE",
+    "welcome": "أهلاً بك",
+    "enter_your_phone_no": "أدخل رقم هاتفك للاستمرار",
+    "signin_later": "تسجيل الدخول لاحقا",
+    "no_driver_account": "لم يتم العثور على حساب",
+    "driver_account_not_approved": "لم يتم تفعيل حسابك",
+
+    "HOME NAVIGATOR": "HOME NAVIGATOR",
+    "stores": "المتاجر",
+    "notifications": "التنبيهات",
+    "orders": "الطلبات",
+    "profile": "البروفايل",
+    
+    "PROFILE DRAWER": "PROFILE DRAWER",
+    "signin": "تسجيل الدخول",
+    "signout": "تسجيل الخروج"
+
+}
